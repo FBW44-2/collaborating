@@ -1,1 +1,8 @@
-![Bike](https://images.unsplash.com/photo-1602583021371-3a463ef2cbe0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+# collaborating
+
+- clone this repo
+- create a branch of your own
+- Create a directory and name it your-name-photo
+- Add a photo inside of it
+- push to your branch
+- create a pull request and request a review from someone.
